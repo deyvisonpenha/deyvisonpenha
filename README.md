@@ -8,7 +8,7 @@
 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deyvisonpenha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deyvisonpenha&layout=compact&langs_count=8&theme=dracula&hide=Jupyter Notebook, CSS, HTML, SCSS, Starlark,CoffeeScript"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deyvisonpenha&layout=compact&langs_count=8&theme=dracula&hide=Jupyter Notebook,CSS,HTML,SCSS,Starlark,CoffeeScript"/>
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deyvisonpenha&theme=dracula" style="border: 1px solid;border-color: white; border-radius: 4px"/>
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deyvisonpenha&theme=dracula" style="border: 1px solid;border-color: white; border-radius: 4px"/>
 </div>
