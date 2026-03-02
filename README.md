@@ -1,6 +1,6 @@
 ## Hi! I'm Deyvison and Welcome to my profile 😄
 
- I'm a computer engineer with more than 6 years of experience in the IT segment as full-stack developer (NodeJS, React and React Native), project management and professor at university. Also, I'm an IoT enthusiast, motivated by new technology, management and leadership. I'm looking for opportunities to be tech lead or senior developer.
+ Senior/Staff Full-Stack Engineer with 6+ years building production AI-first applications, leveraging Python and JavaScript/TypeScript for both front-end and back-end development. Daily development workflow powered by Claude Code to accelerate feature delivery and ship reliable code faster and Cursor with agents integration. Proven track record designing and shipping autonomous AI systems — including LLM-driven pipelines that proactively enrich data, generate insights, monitor token costs, and self-validate with minimal human oversight. Founded Easywriter-AI (300+ sign-ups), a B2C SaaS where AI agents autonomously generate high-quality content via LangChain + GPT-4/Gemini multimodal + RAG. Deep expertise in Next.js/TypeScript frontends, Python/Node.js backends, and early-stage product ownership.
  
 <br />
 
